@@ -27,7 +27,7 @@ Responsible for:
 
 Main class:
 
-* LobbyService: implements the lobby management logic. [Link](https://github.com/sopra-fs24-group-41/sopra-fs24-group-41-server/blob/main/src/main/java/ch/uzh/ifi/hase/soprafs24/service/LobbyService.java)
+* [LobbyService](https://github.com/sopra-fs24-group-41/sopra-fs24-group-41-server/blob/main/src/main/java/ch/uzh/ifi/hase/soprafs24/service/LobbyService.java): implements the lobby management logic.
 
 Important helper classes:
 
@@ -45,7 +45,7 @@ Responsible for:
 
 Main class:
 
-* UserService: implements the user management logic. [Link](https://github.com/sopra-fs24-group-41/sopra-fs24-group-41-server/blob/main/src/main/java/ch/uzh/ifi/hase/soprafs24/service/UserService.java)
+* [UserService](https://github.com/sopra-fs24-group-41/sopra-fs24-group-41-server/blob/main/src/main/java/ch/uzh/ifi/hase/soprafs24/service/UserService.java): implements the user management logic.
 
 Other important classes:
 
@@ -64,7 +64,7 @@ Responsible for:
 
 Main class:
 
-* GameService: implements the higher-level game logic. [Link](https://github.com/sopra-fs24-group-41/sopra-fs24-group-41-server/blob/main/src/main/java/ch/uzh/ifi/hase/soprafs24/service/GameService.java)
+* [GameService](https://github.com/sopra-fs24-group-41/sopra-fs24-group-41-server/blob/main/src/main/java/ch/uzh/ifi/hase/soprafs24/service/GameService.java): implements the higher-level game logic.
 
 Other important classes:
 
@@ -194,7 +194,7 @@ Further versions of Wombo Combo could include these functionalities:
 * **Rosan Shanmuganathan** - [na50r](https://github.com/na50r)
 * **Alexandru-Mihai Hurjui** - [Aquamarine-12](https://github.com/Aquamarine-12)
 
-See also the list of [contributors](https://github.com/sopra-fs24-group-41/sopra-fs24-group-41-client/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/sopra-fs24-group-41/sopra-fs24-group-41-server/graphs/contributors) who participated in this project.
 
 ### Acknowledgments
 
